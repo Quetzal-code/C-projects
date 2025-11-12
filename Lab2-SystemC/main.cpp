@@ -1,4 +1,5 @@
-#include <systemc.h>
+#include <systemc>
+#include <iostream>
 #include "or_gate.cpp"
 #include "xor_gate.cpp"
 #include "nand_gate.cpp"
